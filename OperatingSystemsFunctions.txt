@@ -1,0 +1,1 @@
+Imagen your computer operating system as the boss of a large department store. The entire store is run by a team of specialized managers. Each manager has a certain area of expertise and is responsible for all functions and operations regarding their specific department. In this “store” there is a memory manager, file manager, processor manager and device manager. 
